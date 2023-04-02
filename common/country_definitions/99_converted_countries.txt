@@ -306,7 +306,7 @@ ANK = {
 ANL = {
 	color = { 240 230 155 }
 	country_type = recognized
-	tier = principality
+	tier = kingdom
 	cultures = { andalucian }
 	religion = sunni
 	capital = STATE_ANDALUSIA
@@ -1827,7 +1827,7 @@ EGY = {
 	color = { 255 220 104 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { andalucian }
+	cultures = { misri }
 	religion = sunni
 	capital = STATE_LOWER_EGYPT
 }
@@ -5147,7 +5147,7 @@ PRU = {
 	tier = kingdom
 	cultures = { north_german }
 	religion = cathar
-	capital = STATE_BRUNSWICK
+	capital = STATE_SAXONY
 }
 
 PUE = {

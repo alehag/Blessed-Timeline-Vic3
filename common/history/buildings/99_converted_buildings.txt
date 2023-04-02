@@ -390,7 +390,7 @@
 		}
 	}
 	s:STATE_ALBANIA = {
-		region_state:GRE = {
+		region_state:CRO = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -1641,8 +1641,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:W66 = {
 			create_building = {
 				building = "building_arms_industry"
 				level = 2
@@ -3183,8 +3181,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
-		}
-		region_state:GRE = {
 			create_building = {
 				building = "building_barracks"
 				level = 2
@@ -3591,8 +3587,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_cannons" }
 			}
-		}
-		region_state:GRE = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 3
@@ -5875,8 +5869,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-		}
-		region_state:GRE = {
 			create_building = {
 				building = "building_logging_camp"
 				level = 1
@@ -13458,7 +13450,7 @@
 		}
 	}
 	s:STATE_MACEDONIA = {
-		region_state:GRE = {
+		region_state:CRO = {
 			create_building = {
 				building = "building_naval_base"
 				level = 1
@@ -16476,7 +16468,7 @@
 		}
 	}
 	s:STATE_NORTHERN_THRACE = {
-		region_state:GRE = {
+		region_state:CRO = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1
@@ -18292,7 +18284,7 @@
 		}
 	}
 	s:STATE_PELOPONNESE = {
-		region_state:W66 = {
+		region_state:GRE = {
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 1
@@ -20824,7 +20816,7 @@
 		}
 	}
 	s:STATE_SKOPIA = {
-		region_state:GRE = {
+		region_state:CRO = {
 			create_building = {
 				building = "building_barracks"
 				level = 1
@@ -21171,8 +21163,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_picks_and_shovels_building_coal_mine" }
 			}
-		}
-		region_state:GRE = {
 			create_building = {
 				building = "building_barracks"
 				level = 1
@@ -25134,7 +25124,7 @@
 		}
 	}
 	s:STATE_WESTERN_THRACE = {
-		region_state:GRE = {
+		region_state:CRO = {
 			create_building = {
 				building = "building_construction_sector"
 				level = 1

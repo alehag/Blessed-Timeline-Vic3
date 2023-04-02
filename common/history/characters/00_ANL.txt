@@ -19,6 +19,7 @@
 			culture = cu:andalucian
 			religion = rel:sunni
 			birth_date = 1829.1.29
+			interest_group = ig_devout
 			traits = {
 				experienced_diplomat 
 			}
@@ -31,6 +32,7 @@
 			culture = cu:andalucian
 			religion = rel:sunni
 			birth_date = 1807.8.30
+			interest_group = ig_devout
 			traits = {
 				tactful 
 			}
