@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:DAI = {
+		create_character = {
+			first_name = "Thuy_Tram"
+			last_name = "Vu"
+			female = yes
+			culture = cu:vietnamese
+			religion = rel:mahayana
+			birth_date = 1804.7.8
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Phuc_Nguyen"
+			last_name = "Minkhaungid"
+			heir = yes
+			culture = cu:vietnamese
+			religion = rel:mahayana
+			birth_date = 1827.8.23
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Oanh_I"
+			last_name = "Minkhaungid"
+			ruler = yes
+			culture = cu:vietnamese
+			religion = rel:mahayana
+			birth_date = 1801.4.3
+			traits = {
+				experienced_diplomat reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Kinh_Vu_Dao"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1773.11.2
+		}
+
+	}
+}

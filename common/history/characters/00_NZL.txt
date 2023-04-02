@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:NZL = {
+		create_character = {
+			first_name = "Barthout_Van_Noort"
+			ruler = yes
+			culture = cu:dutch
+			religion = rel:catholic
+			birth_date = 1788.8.2
+			traits = {
+				basic_diplomat cruel 
+			}
+		}
+
+	}
+}

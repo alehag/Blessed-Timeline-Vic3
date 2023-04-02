@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:JLF = {
+		create_character = {
+			first_name = "Bamari"
+			last_name = "Jenama"
+			heir = yes
+			culture = cu:bambara
+			religion = rel:sunni
+			birth_date = 1805.2.17
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Brak_III"
+			last_name = "Jenama"
+			ruler = yes
+			culture = cu:bambara
+			religion = rel:sunni
+			birth_date = 1803.5.23
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+	}
+}

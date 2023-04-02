@@ -1,0 +1,39 @@
+﻿CHARACTERS = {
+	c:X49 = {
+		create_character = {
+			first_name = "Sanyukta_Lakhaji"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.12.11
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Surajpal"
+			last_name = "Annaladevi"
+			heir = yes
+			culture = cu:gujarati
+			religion = rel:shiite
+			birth_date = 1789.2.1
+			traits = {
+				basic_diplomat innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Tissamita_I"
+			last_name = "Annaladevi"
+			ruler = yes
+			female = yes
+			culture = cu:gujarati
+			religion = rel:shiite
+			birth_date = 1766.3.28
+			traits = {
+				basic_diplomat persistent 
+			}
+		}
+
+	}
+}

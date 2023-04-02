@@ -1,0 +1,44 @@
+﻿CHARACTERS = {
+	c:GML = {
+		create_character = {
+			first_name = "Apari"
+			last_name = "Wonga"
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1787.8.17
+			traits = {
+				experienced_political_operator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Alba"
+			last_name = "Wonga"
+			heir = yes
+			female = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1812.7.26
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Kayle_I"
+			last_name = "Wonga"
+			ruler = yes
+			female = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1765.2.11
+			traits = {
+				direct 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,59 @@
+﻿CHARACTERS = {
+	c:ICL = {
+		create_character = {
+			first_name = "Methodios_Arason"
+			ruler = yes
+			culture = cu:neo-canada_colony-vinlandic
+			religion = rel:asatru
+			birth_date = 1783.11.25
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Eve_Bjelke"
+			is_general = yes
+			commander_rank = commander_rank_4
+			female = yes
+			birth_date = 1783.6.14
+			traits = {
+				direct surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Eve_Leifsson"
+			is_general = yes
+			commander_rank = commander_rank_1
+			female = yes
+			birth_date = 1807.4.8
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Eve_Sverresson"
+			is_general = yes
+			commander_rank = commander_rank_4
+			female = yes
+			birth_date = 1794.10.31
+			traits = {
+				bigoted experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Eve_Arnesson"
+			is_general = yes
+			commander_rank = commander_rank_3
+			female = yes
+			birth_date = 1808.2.14
+			traits = {
+				ambitious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:X75 = {
+		create_character = {
+			first_name = "Rajah_Qasim"
+			last_name = "Srivijaya"
+			heir = yes
+			culture = cu:malay
+			religion = rel:sunni
+			birth_date = 1808.5.11
+			traits = {
+				basic_diplomat meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Girindrawardhana_I"
+			last_name = "Hamengku"
+			ruler = yes
+			culture = cu:javan
+			religion = rel:sunni
+			birth_date = 1803.7.21
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

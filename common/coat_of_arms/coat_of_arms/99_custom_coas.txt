@@ -1,0 +1,26 @@
+﻿
+W26 = { textured_emblem = { texture = "custom_export/W26.tga" } }
+W26_republic = { textured_emblem = { texture = "custom_export/W26_republic.tga" } }
+W26_monarchy = { textured_emblem = { texture = "custom_export/W26_monarchy.tga" } }
+W26_fascist = { textured_emblem = { texture = "custom_export/W26_fascist.tga" } }
+W26_communist = { textured_emblem = { texture = "custom_export/W26_communist.tga" } }
+W27 = { textured_emblem = { texture = "custom_export/W27.tga" } }
+W27_republic = { textured_emblem = { texture = "custom_export/W27_republic.tga" } }
+W27_monarchy = { textured_emblem = { texture = "custom_export/W27_monarchy.tga" } }
+W27_fascist = { textured_emblem = { texture = "custom_export/W27_fascist.tga" } }
+W27_communist = { textured_emblem = { texture = "custom_export/W27_communist.tga" } }
+W28 = { textured_emblem = { texture = "custom_export/W28.tga" } }
+W28_republic = { textured_emblem = { texture = "custom_export/W28_republic.tga" } }
+W28_monarchy = { textured_emblem = { texture = "custom_export/W28_monarchy.tga" } }
+W28_fascist = { textured_emblem = { texture = "custom_export/W28_fascist.tga" } }
+W28_communist = { textured_emblem = { texture = "custom_export/W28_communist.tga" } }
+W29 = { textured_emblem = { texture = "custom_export/W29.tga" } }
+W29_republic = { textured_emblem = { texture = "custom_export/W29_republic.tga" } }
+W29_monarchy = { textured_emblem = { texture = "custom_export/W29_monarchy.tga" } }
+W29_fascist = { textured_emblem = { texture = "custom_export/W29_fascist.tga" } }
+W29_communist = { textured_emblem = { texture = "custom_export/W29_communist.tga" } }
+W30 = { textured_emblem = { texture = "custom_export/W30.tga" } }
+W30_republic = { textured_emblem = { texture = "custom_export/W30_republic.tga" } }
+W30_monarchy = { textured_emblem = { texture = "custom_export/W30_monarchy.tga" } }
+W30_fascist = { textured_emblem = { texture = "custom_export/W30_fascist.tga" } }
+W30_communist = { textured_emblem = { texture = "custom_export/W30_communist.tga" } }

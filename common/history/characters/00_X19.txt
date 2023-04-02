@@ -1,0 +1,44 @@
+﻿CHARACTERS = {
+	c:X19 = {
+		create_character = {
+			first_name = "Tuyana"
+			last_name = "Mangit"
+			female = yes
+			culture = cu:yakut
+			religion = rel:theravada
+			birth_date = 1798.7.30
+			traits = {
+				bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Longxian"
+			last_name = "Borjigin"
+			heir = yes
+			female = yes
+			culture = cu:yakut
+			religion = rel:theravada
+			birth_date = 1816.12.11
+			traits = {
+				cautious experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Zorikto_V"
+			last_name = "Borjigin"
+			ruler = yes
+			culture = cu:yakut
+			religion = rel:theravada
+			birth_date = 1787.2.8
+			traits = {
+				experienced_colonial_administrator tactful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

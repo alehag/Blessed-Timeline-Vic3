@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:PRG = {
+		create_character = {
+			first_name = "Suleyman_III"
+			last_name = "Nasrid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:neo-peru_colony-qurtuban
+			religion = rel:sunni
+			birth_date = 1819.6.23
+			traits = {
+				innovative surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Tumasi_Ibn_Sa_d"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1798.9.17
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Hisham_Ibn_Ali"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.5.9
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Garsiya_Ibn_al-Azafi"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1784.12.23
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "al-Mundir_Ibn_Hisam"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1787.9.13
+		}
+
+	}
+}

@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:X34 = {
+		create_character = {
+			first_name = "Kydaana"
+			last_name = "Adiul"
+			female = yes
+			culture = cu:siberian
+			religion = rel:tengri_pagan
+			birth_date = 1799.11.15
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Nuolan"
+			last_name = "Kepele"
+			heir = yes
+			culture = cu:siberian
+			religion = rel:tengri_pagan
+			birth_date = 1824.1.20
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Gyrgol-gyrgyn_I"
+			last_name = "Kepele"
+			ruler = yes
+			culture = cu:siberian
+			religion = rel:tengri_pagan
+			birth_date = 1790.3.17
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

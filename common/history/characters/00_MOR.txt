@@ -1,0 +1,78 @@
+﻿CHARACTERS = {
+	c:MOR = {
+		create_character = {
+			first_name = "_Al0"
+			last_name = "Yusufid"
+			heir = yes
+			culture = cu:maghrebi
+			religion = rel:sunni
+			birth_date = 1829.2.28
+			traits = {
+				masterful_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Ab0_Merwan_I"
+			last_name = "Yusufid"
+			ruler = yes
+			culture = cu:maghrebi
+			religion = rel:sunni
+			birth_date = 1814.2.28
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Zulfiqar_Arazi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1785.3.29
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Zulfiqar_Sellami"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.7.26
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Nasir_Alami"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1800.10.18
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "al-Talib_Lahsini"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.2.2
+			traits = {
+				reckless 
+			}
+		}
+
+		create_character = {
+			first_name = "_Abd_ar-Rahm0n_Arazi"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.8.10
+			traits = {
+				grifter 
+			}
+		}
+
+	}
+}

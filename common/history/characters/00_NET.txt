@@ -1,0 +1,83 @@
+﻿CHARACTERS = {
+	c:NET = {
+		create_character = {
+			first_name = "Margaretha"
+			last_name = "von_Geldern"
+			female = yes
+			culture = cu:croat
+			religion = rel:orthodox
+			birth_date = 1795.5.23
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Willem"
+			last_name = "van_Snert"
+			heir = yes
+			culture = cu:croat
+			religion = rel:catholic
+			birth_date = 1827.10.14
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Filips_Willem_I"
+			last_name = "van_Snert"
+			ruler = yes
+			culture = cu:croat
+			religion = rel:catholic
+			birth_date = 1812.10.14
+			traits = {
+				experienced_political_operator wrathful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Thomas_Van_Nieuwenaar"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1804.3.27
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Karel_Van_Haren"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1781.7.28
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Hans_Van_Ilpendam"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.8.2
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Jan_Van_Assendelft"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1768.8.21
+			traits = {
+				explorer persistent 
+			}
+		}
+
+	}
+}

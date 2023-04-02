@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X90 = {
+		create_character = {
+			first_name = "Paillamachu_I"
+			last_name = "Lonko"
+			ruler = yes
+			culture = cu:araucanian
+			religion = rel:animist
+			birth_date = 1817.12.22
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

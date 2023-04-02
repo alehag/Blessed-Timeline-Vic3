@@ -1,0 +1,49 @@
+﻿CHARACTERS = {
+	c:SWE = {
+		create_character = {
+			first_name = "Hedwig_Adlersparre"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			female = yes
+			birth_date = 1799.3.10
+		}
+
+		create_character = {
+			first_name = "Anna_Brahe"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			female = yes
+			birth_date = 1781.11.25
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl"
+			last_name = "Munk"
+			heir = yes
+			culture = cu:swedish
+			religion = rel:asatru
+			birth_date = 1815.9.25
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl_XII"
+			last_name = "Munk"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:swedish
+			religion = rel:asatru
+			birth_date = 1791.1.31
+			traits = {
+				persistent 
+			}
+		}
+
+	}
+}

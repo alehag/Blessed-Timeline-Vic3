@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:X16 = {
+		create_character = {
+			first_name = "Kertawardhana"
+			last_name = "Suryavansha"
+			heir = yes
+			culture = cu:bornean
+			religion = rel:hindu
+			birth_date = 1810.10.18
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Sulaym0n"
+			last_name = "Bolkiah"
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1779.12.17
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Gayatri_I"
+			last_name = "Suryavansha"
+			ruler = yes
+			female = yes
+			culture = cu:bornean
+			religion = rel:hindu
+			birth_date = 1775.9.3
+			traits = {
+				basic_diplomat charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

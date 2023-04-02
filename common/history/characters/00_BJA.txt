@@ -1,0 +1,52 @@
+﻿CHARACTERS = {
+	c:BJA = {
+		create_character = {
+			first_name = "Halil_Nabtab"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.3.23
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Muzaffaraddin_Hadendowa"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1782.2.7
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Abdul"
+			last_name = "Aarifid"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:bedouin
+			religion = rel:shiite
+			birth_date = 1806.5.6
+			traits = {
+				basic_offensive_planner charismatic experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Hisham_II"
+			last_name = "Aarifid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:bedouin
+			religion = rel:shiite
+			birth_date = 1787.12.17
+			traits = {
+				basic_political_operator charismatic innovative surveyor 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:SMI = {
+		create_character = {
+			first_name = "Bjorg_Saiva"
+			ruler = yes
+			culture = cu:icelandic
+			religion = rel:asatru
+			birth_date = 1794.12.2
+			traits = {
+				ambitious basic_colonial_administrator 
+			}
+		}
+
+	}
+}

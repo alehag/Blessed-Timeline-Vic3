@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:X93 = {
+		create_character = {
+			first_name = "Zhuangjing"
+			last_name = "Niohuru"
+			female = yes
+			culture = cu:manchu
+			religion = rel:tengri_pagan
+			birth_date = 1794.6.20
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Bukuri_Yongson"
+			last_name = "Hoifa"
+			heir = yes
+			culture = cu:manchu
+			religion = rel:tengri_pagan
+			birth_date = 1815.4.17
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Fuman_I"
+			last_name = "Hoifa"
+			ruler = yes
+			culture = cu:manchu
+			religion = rel:tengri_pagan
+			birth_date = 1795.4.17
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,486 @@
+﻿
+adamites = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 153 204 153 }
+}
+alawite = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 51 102 26 }
+	taboos = { liquor wine }
+}
+anglo_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 0 80 0 }
+}
+animist = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 153 77 51 }
+}
+arab_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 140 20 50 }
+}
+armenian_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 84 107 46 }
+}
+asatru = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 170 255 193 }
+}
+atenism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 230 204 102 }
+}
+aztec_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 81 101 81 }
+}
+baltic_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 191 128 89 }
+}
+bogomilist = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 179 0 51 }
+}
+bon = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 8 140 131 }
+}
+bon_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 6 116 108 }
+}
+bosnian_church = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 153 117 134 }
+}
+briton_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 26 26 153 }
+}
+cainitism = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 254 132 10 }
+}
+canaanite = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 144 186 19 }
+}
+cathar = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 128 128 230 }
+}
+catholic = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = { christian }
+	color = { 204 153 102 }
+}
+caucasian_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 204 51 51 }
+}
+celtiberian_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 51 179 51 }
+}
+converted_dynamic_faith_102 = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 170 109 40 }
+}
+converted_dynamic_faith_103 = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 0 0 }
+}
+converted_dynamic_faith_105 = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 127 0 }
+}
+cybelene = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 155 13 81 }
+}
+druidism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 102 66 31 }
+}
+druze = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 230 102 }
+	taboos = { liquor wine }
+}
+finnish_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 166 166 26 }
+}
+gaelic_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 26 102 26 }
+}
+gallic_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 26 153 26 }
+}
+gayomarthianism = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 102 204 51 }
+}
+gelugpa = {
+	texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+	traits = { buddhist eastern }
+	color = { 26 102 230 }
+}
+germanic_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 180 180 180 }
+}
+hellenic_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 153 26 26 }
+}
+hellenic_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 190 32 32 }
+}
+hindu = {
+	texture = "gfx/interface/icons/religion_icons/hindu.dds"
+	traits = { eastern }
+	color = { 179 102 77 }
+	taboos = { meat }
+}
+hurufi = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 102 230 0 }
+	taboos = { liquor wine }
+}
+hussite = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 244 55 9 }
+}
+ibadi = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 102 0 }
+	taboos = { liquor wine }
+}
+iberian_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 232 181 209 }
+}
+inti = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 64 115 115 }
+}
+jain = {
+	texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+	traits = { eastern }
+	color = { 0 77 153 }
+}
+jewish = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 128 128 51 }
+}
+karaite_faith = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 255 83 255 }
+}
+kemetism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 179 45 0 }
+}
+kharijite = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 102 204 153 }
+	taboos = { liquor wine }
+}
+khurmazta = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 128 153 77 }
+}
+khurramism = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 26 179 51 }
+}
+kitebacilweism = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 3 105 151 }
+	taboos = { liquor wine }
+}
+lollard = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 128 204 204 }
+}
+magyar_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 250 120 90 }
+}
+magyar_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 212 106 80 }
+}
+mahayana = {
+	texture = "gfx/interface/icons/religion_icons/mahayana.dds"
+	traits = { buddhist eastern }
+	color = { 179 89 26 }
+}
+mandeaism = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 212 171 56 }
+}
+manichean = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 208 183 0 }
+}
+mardukism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 128 11 0 }
+}
+mazdaki = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 128 179 51 }
+}
+meshefaresism = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 76 128 }
+	taboos = { liquor wine }
+}
+mesoamerican_religion = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 25 178 }
+}
+messalian = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 153 26 102 }
+}
+mithraism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 210 0 0 }
+}
+monophysite = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 204 102 26 }
+}
+monothelite = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 128 0 77 }
+}
+mutazila = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 179 128 }
+	taboos = { liquor wine }
+}
+nahuatl = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 64 115 64 }
+}
+nestorian = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 214 112 153 }
+}
+norse_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 191 191 191 }
+}
+oriental_orthodox = {
+	texture = "gfx/interface/icons/religion_icons/coptic.dds"
+	traits = { christian }
+	color = { 26 128 153 }
+}
+orthodox = {
+	texture = "gfx/interface/icons/religion_icons/orthodox.dds"
+	traits = { christian }
+	color = { 158 163 153 }
+}
+paulician = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 214 0 147 }
+}
+priscillianism = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 235 181 29 }
+}
+protestant = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 51 77 140 }
+}
+quranist = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 51 179 26 }
+	taboos = { liquor wine }
+}
+samaritan_faith = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 200 0 200 }
+}
+scythian_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 128 48 51 }
+}
+sethianism = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 217 140 77 }
+}
+shiite = {
+	texture = "gfx/interface/icons/religion_icons/shiite.dds"
+	traits = { muslim }
+	color = { 102 179 77 }
+	taboos = { liquor wine }
+}
+shinto = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = { eastern }
+	color = { 102 26 51 }
+}
+sikh = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = { eastern }
+	color = { 255 255 26 }
+}
+slavic_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 217 186 102 }
+}
+sunni = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 26 128 77 }
+	taboos = { liquor wine }
+}
+tengri_pagan = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 0 30 108 }
+}
+tengri_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 25 76 217 }
+}
+theravada = {
+	texture = "gfx/interface/icons/religion_icons/theravada.dds"
+	traits = { buddhist eastern }
+	color = { 179 102 153 }
+}
+totemism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 115 115 }
+}
+valentinianism = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 204 153 102 }
+}
+waldensian = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 102 102 179 }
+}
+west_african_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 255 160 0 }
+}
+yazidi = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 73 162 }
+	taboos = { liquor wine }
+}
+zamolxism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 0 0 25500 }
+}
+zikri = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 51 153 51 }
+	taboos = { liquor wine }
+}
+zoroastrian = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 127 178 51 }
+}
+zun_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 230 255 0 }
+}
+zurvanism = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 77 153 102 }
+}
+

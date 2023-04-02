@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:NSW = {
+		create_character = {
+			first_name = "Boson_d_Aulnay"
+			ruler = yes
+			culture = cu:occitan
+			religion = rel:cathar
+			birth_date = 1779.9.30
+			traits = {
+				direct experienced_political_operator 
+			}
+		}
+
+	}
+}

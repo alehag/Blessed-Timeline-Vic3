@@ -1,0 +1,38 @@
+﻿DIPLOMACY = {
+	c:W37 = {
+		create_diplomatic_pact = {
+			country = c:X80
+			type = customs_union
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:X21
+			type = customs_union
+		}
+	}
+	c:ANL = {
+		create_diplomatic_pact = {
+			country = c:X22
+			type = customs_union
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:NSW
+			type = customs_union
+		}
+	}
+	c:PRU = {
+		create_diplomatic_pact = {
+			country = c:X25
+			type = customs_union
+		}
+	}
+	c:NET = {
+		create_diplomatic_pact = {
+			country = c:NZL
+			type = customs_union
+		}
+	}
+}

@@ -1,0 +1,95 @@
+﻿CHARACTERS = {
+	c:FRA = {
+		create_character = {
+			first_name = "Richenda"
+			last_name = "de_Foix"
+			female = yes
+			culture = cu:croat
+			religion = rel:cathar
+			birth_date = 1810.6.7
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Theoderic"
+			last_name = "von_Van_Volkvan"
+			heir = yes
+			culture = cu:croat
+			religion = rel:cathar
+			birth_date = 1835.4.15
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Lothaire_II"
+			last_name = "von_Van_Volkvan"
+			ruler = yes
+			culture = cu:croat
+			religion = rel:cathar
+			birth_date = 1820.4.15
+			traits = {
+				cautious experienced_political_operator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Raymonde_de_La_Porte"
+			is_general = yes
+			commander_rank = commander_rank_4
+			female = yes
+			birth_date = 1789.6.30
+			traits = {
+				experienced_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Guillaumette_de_Pellefort"
+			is_general = yes
+			commander_rank = commander_rank_4
+			female = yes
+			birth_date = 1785.6.24
+			traits = {
+				expert_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Margot_Desgouttes"
+			is_general = yes
+			commander_rank = commander_rank_3
+			female = yes
+			birth_date = 1794.10.3
+			traits = {
+				trench_rat wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Aldebert_de_Marguerye"
+			is_admiral = yes
+			birth_date = 1790.3.19
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Charles_de_Bonneuil"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1784.12.14
+			traits = {
+				trench_rat 
+			}
+		}
+
+	}
+}

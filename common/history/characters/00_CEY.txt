@@ -1,0 +1,95 @@
+﻿CHARACTERS = {
+	c:CEY = {
+		create_character = {
+			first_name = "Aggabodhi_Kalpage"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1811.10.5
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Aggabodhi_Tillekaratne"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1803.12.7
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Vassaba_Atapattu"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.2.15
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Prasadhanadevi"
+			last_name = "Tomara"
+			female = yes
+			culture = cu:avadhi
+			religion = rel:hindu
+			birth_date = 1803.8.22
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Diganaguli"
+			last_name = "Suryavansha"
+			heir = yes
+			culture = cu:avadhi
+			religion = rel:hindu
+			birth_date = 1831.10.27
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Rakasala_III"
+			last_name = "Suryavansha"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:avadhi
+			religion = rel:hindu
+			birth_date = 1816.10.27
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Dathopatissa_Tillekaratne"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1793.12.24
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Viranarendra_Kalpage"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1786.7.2
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+	}
+}

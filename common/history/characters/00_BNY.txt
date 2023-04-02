@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:BNY = {
+		create_character = {
+			first_name = "Duhaga_Atekok"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1815.7.27
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Nakamu"
+			last_name = "Cambarantama"
+			female = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1791.5.18
+			traits = {
+				bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Kyebambe"
+			last_name = "Cambarantama"
+			heir = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1803.8.25
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Olimi_IV"
+			last_name = "Cambarantama"
+			ruler = yes
+			culture = cu:baganda
+			religion = rel:animist
+			birth_date = 1770.11.6
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

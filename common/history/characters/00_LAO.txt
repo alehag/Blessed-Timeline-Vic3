@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:LAO = {
+		create_character = {
+			first_name = "Inthaphom_Yo_Soukbandit"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.9.8
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Phommathat_Vongsak"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1781.11.7
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Nan_Tharat"
+			last_name = "Suphannaphum"
+			heir = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1820.12.14
+			traits = {
+				basic_colonial_administrator pious 
+			}
+		}
+
+		create_character = {
+			first_name = "Tian_Thala_II"
+			last_name = "Suphannaphum"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1801.2.22
+			traits = {
+				basic_defensive_strategist basic_political_operator innovative 
+			}
+		}
+
+	}
+}

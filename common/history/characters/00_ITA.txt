@@ -1,0 +1,75 @@
+﻿CHARACTERS = {
+	c:ITA = {
+		create_character = {
+			first_name = "Letoslav_Doria-Landi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1797.10.29
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Prech_Casanova"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1798.11.1
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Olimpiu_de__Medici"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1807.10.29
+			traits = {
+				trench_rat 
+			}
+		}
+
+		create_character = {
+			first_name = "Rothari_Vico"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1797.12.30
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Traianos_Carafa"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.11.25
+			traits = {
+				arrogant convoy_raider_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Trojden_Cybo"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:catholic
+			birth_date = 1783.10.7
+			traits = {
+				cruel experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Olimpiu_Pico"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1780.2.18
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

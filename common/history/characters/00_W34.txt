@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:W34 = {
+		create_character = {
+			first_name = "_Abd_ar-Rahm0n_Sh0h"
+			last_name = "Srivijaya"
+			heir = yes
+			culture = cu:malay
+			religion = rel:sunni
+			birth_date = 1790.10.2
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Dula_III"
+			last_name = "Maguindanao"
+			ruler = yes
+			culture = cu:moro
+			religion = rel:sunni
+			birth_date = 1800.7.22
+			traits = {
+				experienced_political_operator tactful 
+			}
+		}
+
+	}
+}

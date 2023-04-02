@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:KON = {
+		create_character = {
+			first_name = "Vandana"
+			last_name = "Kyambvu"
+			female = yes
+			culture = cu:luba
+			religion = rel:animist
+			birth_date = 1811.1.30
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Kangapu_Nawej"
+			last_name = "Kyambvu"
+			heir = yes
+			culture = cu:luba
+			religion = rel:animist
+			birth_date = 1812.12.2
+			traits = {
+				basic_colonial_administrator cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "0lvaro_V"
+			last_name = "Kyambvu"
+			ruler = yes
+			culture = cu:bakongo
+			religion = rel:animist
+			birth_date = 1817.10.16
+			traits = {
+				basic_diplomat innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

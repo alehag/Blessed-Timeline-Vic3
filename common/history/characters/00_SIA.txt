@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Sri_Suriyothai"
+			last_name = "Phra_Bang"
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1794.4.7
+			traits = {
+				expert_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Borommaracha"
+			last_name = "Ban_Phlu_Luang"
+			heir = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1813.12.12
+			traits = {
+				tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Chao_Fa_Jai_I"
+			last_name = "Ban_Phlu_Luang"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1793.10.4
+			traits = {
+				basic_political_operator cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Naresuen_Nut"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.1.8
+		}
+
+	}
+}

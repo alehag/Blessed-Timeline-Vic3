@@ -1,0 +1,38 @@
+﻿CHARACTERS = {
+	c:KFA = {
+		create_character = {
+			first_name = "Amda_Seyon_Mato"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1803.2.19
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gali"
+			last_name = "Yostos"
+			heir = yes
+			culture = cu:sidama
+			religion = rel:sunni
+			birth_date = 1809.7.6
+			traits = {
+				experienced_colonial_administrator persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Gali_I"
+			last_name = "Yostos"
+			ruler = yes
+			culture = cu:sidama
+			religion = rel:sunni
+			birth_date = 1788.3.9
+			traits = {
+				experienced_colonial_administrator innovative 
+			}
+		}
+
+	}
+}

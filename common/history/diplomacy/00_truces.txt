@@ -1,0 +1,640 @@
+﻿DIPLOMACY = {
+	c:ANL = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:TAS
+			months = 98
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+		create_truce = {
+			country = c:X80
+			months = 112
+		}
+		create_truce = {
+			country = c:X86
+			months = 134
+		}
+	}
+	c:ASM = {
+		create_truce = {
+			country = c:CEY
+			months = 62
+		}
+		create_truce = {
+			country = c:MCH
+			months = 28
+		}
+		create_truce = {
+			country = c:X18
+			months = 62
+		}
+		create_truce = {
+			country = c:X45
+			months = 88
+		}
+	}
+	c:BOH = {
+		create_truce = {
+			country = c:MOR
+			months = 62
+		}
+		create_truce = {
+			country = c:PER
+			months = 62
+		}
+		create_truce = {
+			country = c:PRU
+			months = 25
+		}
+		create_truce = {
+			country = c:X25
+			months = 25
+		}
+		create_truce = {
+			country = c:X62
+			months = 25
+		}
+	}
+	c:BRZ = {
+		create_truce = {
+			country = c:PRG
+			months = 172
+		}
+		create_truce = {
+			country = c:X90
+			months = 172
+		}
+	}
+	c:CEY = {
+		create_truce = {
+			country = c:ASM
+			months = 62
+		}
+		create_truce = {
+			country = c:W66
+			months = 62
+		}
+	}
+	c:CLM = {
+		create_truce = {
+			country = c:PRG
+			months = 172
+		}
+	}
+	c:CRO = {
+		create_truce = {
+			country = c:MOR
+			months = 62
+		}
+		create_truce = {
+			country = c:PER
+			months = 62
+		}
+		create_truce = {
+			country = c:ROM
+			months = 110
+		}
+	}
+	c:FRA = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+	}
+	c:GRE = {
+		create_truce = {
+			country = c:ITA
+			months = 24
+		}
+		create_truce = {
+			country = c:MOR
+			months = 62
+		}
+		create_truce = {
+			country = c:PER
+			months = 62
+		}
+	}
+	c:ICL = {
+		create_truce = {
+			country = c:PRU
+			months = 26
+		}
+		create_truce = {
+			country = c:X25
+			months = 26
+		}
+	}
+	c:ITA = {
+		create_truce = {
+			country = c:GRE
+			months = 24
+		}
+		create_truce = {
+			country = c:MOR
+			months = 62
+		}
+		create_truce = {
+			country = c:PER
+			months = 62
+		}
+	}
+	c:JLF = {
+		create_truce = {
+			country = c:X57
+			months = 60
+		}
+	}
+	c:KON = {
+		create_truce = {
+			country = c:X63
+			months = 76
+		}
+	}
+	c:KOR = {
+		create_truce = {
+			country = c:MCH
+			months = 39
+		}
+	}
+	c:LAO = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+	}
+	c:MCH = {
+		create_truce = {
+			country = c:ASM
+			months = 28
+		}
+		create_truce = {
+			country = c:KOR
+			months = 39
+		}
+		create_truce = {
+			country = c:X87
+			months = 28
+		}
+	}
+	c:MGL = {
+		create_truce = {
+			country = c:PAN
+			months = 50
+		}
+		create_truce = {
+			country = c:W62
+			months = 50
+		}
+		create_truce = {
+			country = c:W64
+			months = 50
+		}
+	}
+	c:MOR = {
+		create_truce = {
+			country = c:BOH
+			months = 62
+		}
+		create_truce = {
+			country = c:CRO
+			months = 62
+		}
+		create_truce = {
+			country = c:GRE
+			months = 62
+		}
+		create_truce = {
+			country = c:ITA
+			months = 62
+		}
+	}
+	c:NET = {
+		create_truce = {
+			country = c:PRU
+			months = 25
+		}
+		create_truce = {
+			country = c:X25
+			months = 25
+		}
+		create_truce = {
+			country = c:X62
+			months = 25
+		}
+	}
+	c:NSW = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+	}
+	c:PAN = {
+		create_truce = {
+			country = c:MGL
+			months = 50
+		}
+	}
+	c:PER = {
+		create_truce = {
+			country = c:BOH
+			months = 62
+		}
+		create_truce = {
+			country = c:CRO
+			months = 62
+		}
+		create_truce = {
+			country = c:GRE
+			months = 62
+		}
+		create_truce = {
+			country = c:ITA
+			months = 62
+		}
+		create_truce = {
+			country = c:X08
+			months = 28
+		}
+		create_truce = {
+			country = c:X11
+			months = 28
+		}
+		create_truce = {
+			country = c:X41
+			months = 28
+		}
+	}
+	c:PRG = {
+		create_truce = {
+			country = c:BRZ
+			months = 172
+		}
+		create_truce = {
+			country = c:CLM
+			months = 172
+		}
+		create_truce = {
+			country = c:X90
+			months = 172
+		}
+	}
+	c:PRU = {
+		create_truce = {
+			country = c:ANL
+			months = 38
+		}
+		create_truce = {
+			country = c:BOH
+			months = 25
+		}
+		create_truce = {
+			country = c:FRA
+			months = 38
+		}
+		create_truce = {
+			country = c:ICL
+			months = 26
+		}
+		create_truce = {
+			country = c:LAO
+			months = 38
+		}
+		create_truce = {
+			country = c:NET
+			months = 25
+		}
+		create_truce = {
+			country = c:NSW
+			months = 38
+		}
+		create_truce = {
+			country = c:SWE
+			months = 26
+		}
+		create_truce = {
+			country = c:X21
+			months = 38
+		}
+		create_truce = {
+			country = c:X22
+			months = 38
+		}
+		create_truce = {
+			country = c:X33
+			months = 38
+		}
+	}
+	c:ROM = {
+		create_truce = {
+			country = c:CRO
+			months = 110
+		}
+		create_truce = {
+			country = c:X07
+			months = 110
+		}
+	}
+	c:SWE = {
+		create_truce = {
+			country = c:PRU
+			months = 26
+		}
+		create_truce = {
+			country = c:X25
+			months = 26
+		}
+	}
+	c:TAS = {
+		create_truce = {
+			country = c:ANL
+			months = 98
+		}
+		create_truce = {
+			country = c:X22
+			months = 98
+		}
+	}
+	c:W62 = {
+		create_truce = {
+			country = c:MGL
+			months = 50
+		}
+	}
+	c:W64 = {
+		create_truce = {
+			country = c:MGL
+			months = 50
+		}
+	}
+	c:W66 = {
+		create_truce = {
+			country = c:CEY
+			months = 62
+		}
+		create_truce = {
+			country = c:X18
+			months = 62
+		}
+		create_truce = {
+			country = c:X45
+			months = 88
+		}
+		create_truce = {
+			country = c:X53
+			months = 52
+		}
+	}
+	c:X07 = {
+		create_truce = {
+			country = c:ROM
+			months = 110
+		}
+	}
+	c:X08 = {
+		create_truce = {
+			country = c:PER
+			months = 28
+		}
+		create_truce = {
+			country = c:X20
+			months = 28
+		}
+	}
+	c:X11 = {
+		create_truce = {
+			country = c:PER
+			months = 28
+		}
+		create_truce = {
+			country = c:X20
+			months = 28
+		}
+	}
+	c:X18 = {
+		create_truce = {
+			country = c:ASM
+			months = 62
+		}
+		create_truce = {
+			country = c:W66
+			months = 62
+		}
+	}
+	c:X20 = {
+		create_truce = {
+			country = c:X08
+			months = 28
+		}
+		create_truce = {
+			country = c:X11
+			months = 28
+		}
+		create_truce = {
+			country = c:X41
+			months = 28
+		}
+	}
+	c:X21 = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+	}
+	c:X22 = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:TAS
+			months = 98
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+		create_truce = {
+			country = c:X80
+			months = 112
+		}
+		create_truce = {
+			country = c:X86
+			months = 134
+		}
+	}
+	c:X25 = {
+		create_truce = {
+			country = c:ANL
+			months = 38
+		}
+		create_truce = {
+			country = c:BOH
+			months = 25
+		}
+		create_truce = {
+			country = c:FRA
+			months = 38
+		}
+		create_truce = {
+			country = c:ICL
+			months = 26
+		}
+		create_truce = {
+			country = c:LAO
+			months = 38
+		}
+		create_truce = {
+			country = c:NET
+			months = 25
+		}
+		create_truce = {
+			country = c:NSW
+			months = 38
+		}
+		create_truce = {
+			country = c:SWE
+			months = 26
+		}
+		create_truce = {
+			country = c:X21
+			months = 38
+		}
+		create_truce = {
+			country = c:X22
+			months = 38
+		}
+		create_truce = {
+			country = c:X33
+			months = 38
+		}
+	}
+	c:X33 = {
+		create_truce = {
+			country = c:PRU
+			months = 38
+		}
+		create_truce = {
+			country = c:X25
+			months = 38
+		}
+	}
+	c:X41 = {
+		create_truce = {
+			country = c:PER
+			months = 28
+		}
+		create_truce = {
+			country = c:X20
+			months = 28
+		}
+	}
+	c:X45 = {
+		create_truce = {
+			country = c:ASM
+			months = 88
+		}
+		create_truce = {
+			country = c:W66
+			months = 88
+		}
+	}
+	c:X53 = {
+		create_truce = {
+			country = c:W66
+			months = 52
+		}
+	}
+	c:X57 = {
+		create_truce = {
+			country = c:JLF
+			months = 60
+		}
+	}
+	c:X62 = {
+		create_truce = {
+			country = c:BOH
+			months = 25
+		}
+		create_truce = {
+			country = c:NET
+			months = 25
+		}
+	}
+	c:X63 = {
+		create_truce = {
+			country = c:KON
+			months = 76
+		}
+	}
+	c:X75 = {
+		create_truce = {
+			country = c:X84
+			months = 61
+		}
+	}
+	c:X80 = {
+		create_truce = {
+			country = c:ANL
+			months = 112
+		}
+		create_truce = {
+			country = c:X22
+			months = 112
+		}
+	}
+	c:X84 = {
+		create_truce = {
+			country = c:X75
+			months = 61
+		}
+	}
+	c:X86 = {
+		create_truce = {
+			country = c:ANL
+			months = 134
+		}
+		create_truce = {
+			country = c:X22
+			months = 134
+		}
+	}
+	c:X87 = {
+		create_truce = {
+			country = c:MCH
+			months = 28
+		}
+	}
+	c:X90 = {
+		create_truce = {
+			country = c:BRZ
+			months = 172
+		}
+		create_truce = {
+			country = c:PRG
+			months = 172
+		}
+	}
+}

@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:RWD = {
+		create_character = {
+			first_name = "Ndahiro"
+			last_name = "Abongera"
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1801.4.3
+			traits = {
+				basic_diplomat meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Mibambwe"
+			last_name = "Cambarantama"
+			heir = yes
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1823.5.20
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Kanjogera_I"
+			last_name = "Cambarantama"
+			ruler = yes
+			female = yes
+			culture = cu:ruanda
+			religion = rel:animist
+			birth_date = 1801.4.3
+			traits = {
+				imperious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

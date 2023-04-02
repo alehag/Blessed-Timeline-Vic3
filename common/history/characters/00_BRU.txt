@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:BRU = {
+		create_character = {
+			first_name = "Sayf_ar-Rijal_Mukhtar"
+			is_admiral = yes
+			birth_date = 1800.9.5
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Hasan"
+			last_name = "Bolkiah"
+			heir = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1822.7.20
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

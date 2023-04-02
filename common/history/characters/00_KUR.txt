@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:KUR = {
+		create_character = {
+			first_name = "Ilyas"
+			last_name = "Rai"
+			heir = yes
+			culture = cu:panjabi
+			religion = rel:sunni
+			birth_date = 1804.1.19
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Dogan_Qazai"
+			last_name = "Justanid"
+			ruler = yes
+			culture = cu:kurdish
+			religion = rel:shiite
+			birth_date = 1805.1.1
+			traits = {
+				cruel expert_political_operator 
+			}
+		}
+
+	}
+}
